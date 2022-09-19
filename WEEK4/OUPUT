@@ -1,1 +1,21 @@
+No. of identifiers are : 19
+ the contents of symbol table are :
 
+ include
+ stdio
+ h
+ main
+ i
+ n
+ t1
+ t2
+ nextTerm
+ printf
+ Enter
+ the
+ number
+ of
+ terms
+ scanf
+ d
+ Fibonacci
